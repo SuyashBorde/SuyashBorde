@@ -17,4 +17,4 @@ Computer Science & Engineering graduate from Chhatrapati Sambhajinagar, building
 - [AD-Attack-Lab](https://github.com/SuyashBorde/AD-Attack-Lab): self-built 3-VM Active Directory lab (Domain Controller, Windows client, Kali) demonstrating a full attack chain: recon, AS-REP Roasting, Kerberoasting, Hashcat cracking and BloodHound path mapping, with a methodology write-up and PDF report
 
 ## 🔗 Connect
-[LinkedIn](https://linkedin.com/in/suyash-borde)
+[LinkedIn]([https://linkedin.com/in/suyash-borde](https://www.linkedin.com/in/suyash-borde-67455628b/))
