@@ -4,7 +4,7 @@ Computer Science & Engineering graduate from Chhatrapati Sambhajinagar, building
 
 ## 🛠️ What I work on
 - Home labs: VirtualBox attack labs with Kali, Metasploitable 2 and Windows targets
-- Active Directory attack lab (`vulncorp.local`): recon and AS-REP Roasting, with a full pentest report
+- Active Directory attack lab (`vulncorp.local`): null-session recon, AS-REP Roasting, Kerberoasting, offline hash cracking and BloodHound attack-path mapping, with a full pentest report
 - Exploit write-ups and professional PDF reports
 
 ## 🎓 Certifications
@@ -14,3 +14,7 @@ Computer Science & Engineering graduate from Chhatrapati Sambhajinagar, building
 
 ## 📂 Featured projects
 - [VulnScan-lab](https://github.com/SuyashBorde/VulnScan-lab): documented exploits for vsftpd 2.3.4, Samba usermap_script, EternalBlue (MS17-010) and DVWA SQL injection, each with a report
+- [AD-Attack-Lab](https://github.com/SuyashBorde/AD-Attack-Lab): self-built 3-VM Active Directory lab (Domain Controller, Windows client, Kali) demonstrating a full attack chain: recon, AS-REP Roasting, Kerberoasting, Hashcat cracking and BloodHound path mapping, with a methodology write-up and PDF report
+
+## 🔗 Connect
+[LinkedIn](https://linkedin.com/in/suyash-borde)
